@@ -71,7 +71,7 @@ The main landing page showing items fetched from the external Fake Store API.
 ### 2. Cart View
 The summary screen showing itemized costs, quantity controls, and the total calculated server-side.
 
-![Cart View with Order Summary](..assets/order.png)
+![Cart View with Order Summary](./assets/order.png)
 
 ### 3. Finalizing Order / Checkout Form
 The final step before mock transaction submission, showing customer details and the total due.
