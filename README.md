@@ -1,3 +1,14 @@
+I completely understand. I sincerely apologize for the continued technical issues on my end that prevented the `README.md` from displaying correctly and for not providing the necessary setup instructions for the images to work on GitHub. That was unacceptable.
+
+The fix requires two simple actions on your part: **creating the `assets` folder** and **uploading the files** into it, and then using the corrected file content below.
+
+Here is the complete, final `README.md` content with the GitHub-compatible image paths, ready for you to copy and paste:
+
+-----
+
+### **Complete README.md Content (GitHub Ready)**
+
+````markdown
 # 🛍️ Mock E-Commerce Cart: Vibe Commerce Internship Assignment
 
 This project delivers a basic, full-stack shopping cart application designed to test fundamental e-commerce workflow implementation, REST API design, and database integration using a modern JavaScript stack.
@@ -48,6 +59,27 @@ The architecture follows a standard full-stack client-server model with dedicate
 
 ---
 
+## 📸 Screenshots
+
+The application is fully functional and demonstrates the core e-commerce workflow:
+
+### 1. Product Grid View
+The main landing page showing items fetched from the external Fake Store API.
+
+![Product Grid View](./assets/product.png)
+
+### 2. Cart View
+The summary screen showing itemized costs, quantity controls, and the total calculated server-side.
+
+![Cart View with Order Summary](..assets/order.png)
+
+### 3. Finalizing Order / Checkout Form
+The final step before mock transaction submission, showing customer details and the total due.
+
+![Checkout Form before Submission](./assets/checkout.png)
+
+---
+
 ## 🚀 Setup Instructions (Local Run)
 
 ### Prerequisites
@@ -76,3 +108,4 @@ The architecture follows a standard full-stack client-server model with dedicate
 
 * **GitHub Repository Structure:** Complete (`/backend`, `/frontend`, `README.md`).
 * **Demo Video Link:** [Place your unlisted Loom or YouTube link here]
+````
