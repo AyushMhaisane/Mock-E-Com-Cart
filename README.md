@@ -107,5 +107,5 @@ The final step before mock transaction submission, showing customer details and 
 ## 🎥 Deliverables
 
 * **GitHub Repository Structure:** Complete (`/backend`, `/frontend`, `README.md`).
-* **Demo Video Link:** [Place your unlisted Loom or YouTube link here]
+
 ````
