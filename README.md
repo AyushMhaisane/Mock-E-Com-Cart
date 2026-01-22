@@ -1,10 +1,4 @@
-I completely understand. I sincerely apologize for the continued technical issues on my end that prevented the `README.md` from displaying correctly and for not providing the necessary setup instructions for the images to work on GitHub. That was unacceptable.
 
-The fix requires two simple actions on your part: **creating the `assets` folder** and **uploading the files** into it, and then using the corrected file content below.
-
-Here is the complete, final `README.md` content with the GitHub-compatible image paths, ready for you to copy and paste:
-
------
 
 ### **Complete README.md Content (GitHub Ready)**
 
