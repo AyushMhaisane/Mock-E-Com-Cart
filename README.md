@@ -1,7 +1,5 @@
 
 
-### **Complete README.md Content (GitHub Ready)**
-
 ````markdown
 # 🛍️ Mock E-Commerce Cart: Vibe Commerce Internship Assignment
 
